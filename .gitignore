@@ -1,0 +1,4 @@
+srcs/requirements/wordpress/tools/.env
+srcs/requirements/nginx/tools/rkanmado.42.fr.crt
+srcs/requirements/nginx/tools/rkanmado.42.fr.key
+srcs/requirements/mariadb/tools/.env
